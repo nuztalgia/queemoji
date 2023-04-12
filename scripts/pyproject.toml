@@ -38,7 +38,8 @@ target-version = ["py311"]
 
 [tool.isort]
 profile = "black"
+classes = ["IO"]
 
 [tool.pydocstyle]
 convention = "google"
-add-ignore = "D1"
+add-ignore = "D100"

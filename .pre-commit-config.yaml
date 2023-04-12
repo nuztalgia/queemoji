@@ -79,7 +79,7 @@ repos:
     hooks:
       - id: prettier
         additional_dependencies: ["prettier", "@prettier/plugin-xml"]
-        args: ["--prose-wrap=always"]
+        args: ["--prose-wrap=always", "--xml-self-closing-space=false"]
         exclude: ^assets/.+/twemoji\.svg$
 
   - repo: https://github.com/Lucas-C/pre-commit-hooks

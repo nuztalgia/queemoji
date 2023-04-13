@@ -1,18 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="main" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#0038A8"/>
-      <stop offset="100%" stop-color="#0038A8"/>
+      <stop offset="0%" stop-color="#ED1B24"/>
+      <stop offset="19.5%" stop-color="#ED1B24"/>
+      <stop offset="19.5%" stop-color="#FF8401"/>
+      <stop offset="36.7%" stop-color="#FF8401"/>
+      <stop offset="36.7%" stop-color="#F7CA33"/>
+      <stop offset="49.5%" stop-color="#F7CA33"/>
+      <stop offset="49.5%" stop-color="#3AB54A"/>
+      <stop offset="62.4%" stop-color="#3AB54A"/>
+      <stop offset="62.4%" stop-color="#1E74BD"/>
+      <stop offset="79.8%" stop-color="#1E74BD"/>
+      <stop offset="79.8%" stop-color="#662E93"/>
+      <stop offset="100%" stop-color="#662E93"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#0038A8"/>
+      <stop offset="0%" stop-color="#F5A9B8"/>
+      <stop offset="50%" stop-color="#F5A9B8"/>
+      <stop offset="50%" stop-color="#5BCEFA"/>
+      <stop offset="100%" stop-color="#5BCEFA"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#D60270"/>
+      <stop offset="0%" stop-color="#783E0C"/>
+      <stop offset="50%" stop-color="#783E0C"/>
+      <stop offset="50%" stop-color="#2C2C2C"/>
+      <stop offset="100%" stop-color="#2C2C2C"/>
     </linearGradient>
   </defs>
   <path
@@ -35,5 +47,13 @@
     stroke-width="1.2"
     stroke-linejoin="round"
     d="m14.347 27.894-2.314-.856-.9-3.3a.998.998 0 0 0-1.929-.001l-.9 3.3-2.313.856a1 1 0 0 0 0 1.876l2.301.853.907 3.622a1 1 0 0 0 1.94-.001l.907-3.622 2.301-.853a.997.997 0 0 0 0-1.874z"
+  />
+  <circle
+    fill="none"
+    stroke="#7902AA"
+    stroke-width="1.7"
+    r="3"
+    cx="21.168"
+    cy="17.85"
   />
 </svg>

@@ -1,18 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="main" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#0038A8"/>
-      <stop offset="100%" stop-color="#0038A8"/>
+      <stop offset="0%" stop-color="#D6E9F8"/>
+      <stop offset="15.6%" stop-color="#D6E9F8"/>
+      <stop offset="15.6%" stop-color="#6FABF4"/>
+      <stop offset="29.2%" stop-color="#6FABF4"/>
+      <stop offset="29.2%" stop-color="#02366F"/>
+      <stop offset="42.3%" stop-color="#02366F"/>
+      <stop offset="42.3%" stop-color="#9EEDAB"/>
+      <stop offset="56.7%" stop-color="#9EEDAB"/>
+      <stop offset="56.7%" stop-color="#02366F"/>
+      <stop offset="70.1%" stop-color="#02366F"/>
+      <stop offset="70.1%" stop-color="#6FABF4"/>
+      <stop offset="84%" stop-color="#6FABF4"/>
+      <stop offset="84%" stop-color="#D6E9F8"/>
+      <stop offset="100%" stop-color="#D6E9F8"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#0038A8"/>
+      <stop stop-color="#6FABF4"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#D60270"/>
+      <stop stop-color="#D6E9F8"/>
     </linearGradient>
   </defs>
   <path

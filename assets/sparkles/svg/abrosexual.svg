@@ -1,18 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="main" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#D60270"/>
-      <stop offset="37.6%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#9B4F96"/>
-      <stop offset="61.5%" stop-color="#0038A8"/>
-      <stop offset="100%" stop-color="#0038A8"/>
+      <stop offset="0%" stop-color="#75CA92"/>
+      <stop offset="20%" stop-color="#75CA92"/>
+      <stop offset="20%" stop-color="#B4E4C9"/>
+      <stop offset="37.6%" stop-color="#B4E4C9"/>
+      <stop offset="37.6%" stop-color="#FFF"/>
+      <stop offset="61.5%" stop-color="#FFF"/>
+      <stop offset="61.5%" stop-color="#E795B6"/>
+      <stop offset="79%" stop-color="#E795B6"/>
+      <stop offset="79%" stop-color="#D9446E"/>
+      <stop offset="100%" stop-color="#D9446E"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#0038A8"/>
+      <stop stop-color="#E795B6"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#D60270"/>
+      <stop stop-color="#75CA92"/>
     </linearGradient>
   </defs>
   <path

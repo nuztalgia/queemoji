@@ -5,19 +5,19 @@
       <stop offset="15.6%" stop-color="#7F7F7F"/>
       <stop offset="15.6%" stop-color="#C4C4C4"/>
       <stop offset="29.2%" stop-color="#C4C4C4"/>
-      <stop offset="29.2%" stop-color="#9DD7EA"/>
-      <stop offset="42.3%" stop-color="#9DD7EA"/>
+      <stop offset="29.2%" stop-color="#91D0E8"/>
+      <stop offset="42.3%" stop-color="#91D0E8"/>
       <stop offset="42.3%" stop-color="#FFF"/>
       <stop offset="56.7%" stop-color="#FFF"/>
-      <stop offset="56.7%" stop-color="#9DD7EA"/>
-      <stop offset="70.1%" stop-color="#9DD7EA"/>
+      <stop offset="56.7%" stop-color="#91D0E8"/>
+      <stop offset="70.1%" stop-color="#91D0E8"/>
       <stop offset="70.1%" stop-color="#C4C4C4"/>
       <stop offset="84%" stop-color="#C4C4C4"/>
       <stop offset="84%" stop-color="#7F7F7F"/>
       <stop offset="100%" stop-color="#7F7F7F"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#9DD7EA"/>
+      <stop stop-color="#91D0E8"/>
     </linearGradient>
     <linearGradient id="bottom">
       <stop stop-color="#7F7F7F"/>

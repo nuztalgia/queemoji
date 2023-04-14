@@ -7,11 +7,11 @@
       <stop offset="49.5%" stop-color="#FF6699"/>
       <stop offset="49.5%" stop-color="#FFCC33"/>
       <stop offset="70.5%" stop-color="#FFCC33"/>
-      <stop offset="70.5%" stop-color="#66CC33"/>
-      <stop offset="100%" stop-color="#66CC33"/>
+      <stop offset="70.5%" stop-color="#5BC639"/>
+      <stop offset="100%" stop-color="#5BC639"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#66CC33"/>
+      <stop stop-color="#5BC639"/>
     </linearGradient>
     <linearGradient id="bottom">
       <stop stop-color="#FF6699"/>

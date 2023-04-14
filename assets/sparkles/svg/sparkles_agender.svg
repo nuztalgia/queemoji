@@ -7,8 +7,8 @@
       <stop offset="29.2%" stop-color="#BCC4C7"/>
       <stop offset="29.2%" stop-color="#FFF"/>
       <stop offset="42.3%" stop-color="#FFF"/>
-      <stop offset="42.3%" stop-color="#AFE57F"/>
-      <stop offset="56.7%" stop-color="#AFE57F"/>
+      <stop offset="42.3%" stop-color="#B1EA80"/>
+      <stop offset="56.7%" stop-color="#B1EA80"/>
       <stop offset="56.7%" stop-color="#FFF"/>
       <stop offset="70.1%" stop-color="#FFF"/>
       <stop offset="70.1%" stop-color="#BCC4C7"/>
@@ -17,7 +17,7 @@
       <stop offset="100%" stop-color="#2C2C2C"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#AFE57F"/>
+      <stop stop-color="#B1EA80"/>
     </linearGradient>
     <linearGradient id="bottom">
       <stop stop-color="#BCC4C7"/>

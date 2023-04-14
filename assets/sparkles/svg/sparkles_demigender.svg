@@ -5,22 +5,22 @@
       <stop offset="15.6%" stop-color="#7F7F7F"/>
       <stop offset="15.6%" stop-color="#C4C4C4"/>
       <stop offset="29.2%" stop-color="#C4C4C4"/>
-      <stop offset="29.2%" stop-color="#F4E465"/>
-      <stop offset="42.3%" stop-color="#F4E465"/>
+      <stop offset="29.2%" stop-color="#F1DD66"/>
+      <stop offset="42.3%" stop-color="#F1DD66"/>
       <stop offset="42.3%" stop-color="#FFF"/>
       <stop offset="56.7%" stop-color="#FFF"/>
-      <stop offset="56.7%" stop-color="#F4E465"/>
-      <stop offset="70.1%" stop-color="#F4E465"/>
+      <stop offset="56.7%" stop-color="#F1DD66"/>
+      <stop offset="70.1%" stop-color="#F1DD66"/>
       <stop offset="70.1%" stop-color="#C4C4C4"/>
       <stop offset="84%" stop-color="#C4C4C4"/>
       <stop offset="84%" stop-color="#7F7F7F"/>
       <stop offset="100%" stop-color="#7F7F7F"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#F4E465"/>
+      <stop stop-color="#7F7F7F"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#7F7F7F"/>
+      <stop stop-color="#F1DD66"/>
     </linearGradient>
   </defs>
   <g class="border" stroke="black" stroke-width="1.55" stroke-linejoin="round">

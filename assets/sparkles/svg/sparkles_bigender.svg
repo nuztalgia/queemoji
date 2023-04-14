@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
   <defs>
     <linearGradient id="main" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#C479A2"/>
-      <stop offset="15.6%" stop-color="#C479A2"/>
-      <stop offset="15.6%" stop-color="#EDA5CD"/>
-      <stop offset="29.2%" stop-color="#EDA5CD"/>
-      <stop offset="29.2%" stop-color="#D6C7E8"/>
-      <stop offset="42.3%" stop-color="#D6C7E8"/>
+      <stop offset="0%" stop-color="#BA699E"/>
+      <stop offset="15.6%" stop-color="#BA699E"/>
+      <stop offset="15.6%" stop-color="#E39CC5"/>
+      <stop offset="29.2%" stop-color="#E39CC5"/>
+      <stop offset="29.2%" stop-color="#D7C4F0"/>
+      <stop offset="42.3%" stop-color="#D7C4F0"/>
       <stop offset="42.3%" stop-color="#FFF"/>
       <stop offset="56.7%" stop-color="#FFF"/>
-      <stop offset="56.7%" stop-color="#D6C7E8"/>
-      <stop offset="70.1%" stop-color="#D6C7E8"/>
-      <stop offset="70.1%" stop-color="#9AC7E8"/>
-      <stop offset="84%" stop-color="#9AC7E8"/>
-      <stop offset="84%" stop-color="#6D82D1"/>
-      <stop offset="100%" stop-color="#6D82D1"/>
+      <stop offset="56.7%" stop-color="#D7C4F0"/>
+      <stop offset="70.1%" stop-color="#D7C4F0"/>
+      <stop offset="70.1%" stop-color="#8DB9E3"/>
+      <stop offset="84%" stop-color="#8DB9E3"/>
+      <stop offset="84%" stop-color="#6771C1"/>
+      <stop offset="100%" stop-color="#6771C1"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#6D82D1"/>
+      <stop stop-color="#6771C1"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#C479A2"/>
+      <stop stop-color="#BA699E"/>
     </linearGradient>
   </defs>
   <g class="border" stroke="black" stroke-width="1.55" stroke-linejoin="round">

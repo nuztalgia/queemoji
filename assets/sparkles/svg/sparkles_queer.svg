@@ -17,10 +17,10 @@
       <stop offset="100%" stop-color="#2C2C2C"/>
     </linearGradient>
     <linearGradient id="top">
-      <stop stop-color="#9AD8ED"/>
+      <stop stop-color="#85D4F2"/>
     </linearGradient>
     <linearGradient id="bottom">
-      <stop stop-color="#FEB0CA"/>
+      <stop stop-color="#FAADC4"/>
     </linearGradient>
   </defs>
   <g class="border" stroke="black" stroke-width="1.55" stroke-linejoin="round">

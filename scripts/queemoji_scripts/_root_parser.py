@@ -10,7 +10,7 @@ from rich.panel import Panel
 from rich.table import Table
 from rich.text import Text
 
-from queemoji_scripts import get_script_name
+from queemoji_scripts._utils import get_script_name
 
 
 class RootParser(ArgumentParser):

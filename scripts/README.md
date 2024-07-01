@@ -43,8 +43,8 @@ The rest of this `README` file is targeted at those who would like to use
    pip install -e queemoji/scripts
    ```
 
-**Note:** The `-e` flag produces an [editable install]. Any code changes you
-make will immediately take effect when you run the program locally.
+**Note:** The `-e` flag produces an [editable install]. Any code changes you make
+will immediately take effect when you run the program locally.
 
 </details>
 

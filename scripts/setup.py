@@ -4,7 +4,7 @@ setup(
     install_requires=[
         "cairosvg ==2.8.2",
         "defusedxml ==0.7.1",
-        "rich ==13.9.4",
+        "rich ==14.1.0",
     ],
     url="https://github.com/nuztalgia/queemoji",
 )
